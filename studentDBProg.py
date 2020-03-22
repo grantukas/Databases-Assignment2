@@ -1,3 +1,9 @@
+"""
+Author: Grant Stankaitis
+Date: 3/22/2020
+CPSC 408 Assignment 2
+"""
+
 import sqlite3
 from pandas import DataFrame
 
