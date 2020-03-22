@@ -1,4 +1,5 @@
 # Databases-Assignment2
+Grant Stankaitis
 CPSC 408 Database Management at Chapman University, Assignment 2
 
 ## Helpful linkes used during the assignment
