@@ -9,7 +9,8 @@ from pandas import DataFrame
 
 isRunning = 1 # Running variable for main loop
 
-conn = sqlite3.connect('C:/Users/grant/Documents/Spring 2020/Database/StudentDB') # Connect to DB
+# Change to the DB location, removed my path for safety
+conn = sqlite3.connect('<INSERT_PATH_HERE>')
 c = conn.cursor() # Cursor instance
 
 def displayTable(all_rows): # Use pandas to organize & display data
