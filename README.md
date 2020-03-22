@@ -1,4 +1,6 @@
 # Databases-Assignment2
+Python application that connects to a SQLite database and performs basic database operations.
+
 Grant Stankaitis
 CPSC 408 Database Management at Chapman University, Assignment 2
 
